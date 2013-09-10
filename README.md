@@ -1,4 +1,4 @@
-Disassembler for limited MIPS instruction set
+Disassembler for limited MIPS instruction set written in C
 
 disAssemble is a disassembler for MIPS code. It takes binary dumps from spim as
 input and turns them into MIPS instructions based on a limited set of
